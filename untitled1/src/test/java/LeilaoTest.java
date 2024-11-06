@@ -1,9 +1,9 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import org.example.Lance;
-import org.example.Leilao;
-import org.example.Usuario;
+import org.example1.Lance;
+import org.example1.Leilao;
+import org.example1.Usuario;
 
 public class LeilaoTest {
 
